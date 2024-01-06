@@ -5,7 +5,6 @@ import java.util.Scanner;
 public class Fibonacciseries {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-     //   int sum=0;
         System.out.println("enter a number ");
         int a = sc.nextInt();
         int num1 =0;
@@ -22,7 +21,7 @@ public class Fibonacciseries {
             
         }
      
-          //  sum=i+i;
+         
         
     }
 }
